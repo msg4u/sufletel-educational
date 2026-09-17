@@ -36,5 +36,3 @@
 Accesati: [https://msg4u.github.io/sufletel-educational/index.html](https://msg4u.github.io/sufletel-educational/index.html)
 
 
-## Google Sites
-Google Sites nu importă direct un proiect HTML ca site editabil nativ. Site-ul poate fi găzduit extern și apoi integrat în Google Sites prin Embed URL / iframe, în funcție de politica de embed a platformei.
